@@ -106,8 +106,6 @@ menu:On(event: string, callback: function);
 item:On(event: string, callback: function);
 ```
 
-## Documentation
-Read **[MenuV documentation](https://menuv.fivem.io/api/)**
 
 ## License
 Project is written by **[ThymonA](https://github.com/ThymonA/)** and published under
