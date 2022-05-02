@@ -20,7 +20,6 @@
 - Rebindable keys
 - Event-based callbacks
 - Uses `2 msec` while menu open and idle.
-- Documentation on [menuv.fivem.io/api/](https://menuv.fivem.io/api/)
 - Themes: **[default](https://i.imgur.com/KSkeiQm.png)** or **[native](https://i.imgur.com/KSkeiQm.png)**
 
 ## Compile files
@@ -106,8 +105,6 @@ menu:On(event: string, callback: function);
 item:On(event: string, callback: function);
 ```
 
-## Documentation
-Read **[MenuV documentation](https://menuv.fivem.io/api/)**
 
 ## License
 Project is written by **[ThymonA](https://github.com/ThymonA/)** and published under
