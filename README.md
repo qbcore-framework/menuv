@@ -20,7 +20,6 @@
 - Rebindable keys
 - Event-based callbacks
 - Uses `2 msec` while menu open and idle.
-- Documentation on [menuv.fivem.io/api/](https://menuv.fivem.io/api/)
 - Themes: **[default](https://i.imgur.com/KSkeiQm.png)** or **[native](https://i.imgur.com/KSkeiQm.png)**
 
 ## Compile files
